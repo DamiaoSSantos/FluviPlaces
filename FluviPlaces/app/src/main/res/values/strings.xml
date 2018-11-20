@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FluviPlaces</string>
+    <string name="title_activity_main">Menu Principal</string>
+    <string name="title_pesquisa">Pesquisa</string>
+    <string name="title_mapa">Mapa</string>
+    <string name="title_favoritos">Meus Favoritos</string>
+</resources>
